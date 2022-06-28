@@ -1,0 +1,6 @@
+{"backend_state":"init","connection_file":"","kernel":"cv_env","kernel_error":"Error: spawn /projects/f4d1dd98-f32e-42f6-a2be-9f1f17884708/miniconda3/envs/cv_env/bin/python ENOENT\n","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
+{"id":"8ac87b","input":"","pos":1,"state":"done","type":"cell"}
+{"id":"ad7b12","input":"","pos":0,"state":"done","type":"cell"}
+{"id":"e6bbcd","input":"","pos":-1,"state":"done","type":"cell"}
+{"id":0,"time":1656448770802,"type":"user"}
+{"last_load":1656448770836,"type":"file"}
